@@ -27,7 +27,11 @@ c. Functional Interface
    4. Functional interface can have any number of default and static method but only 1 abstract method
    thats why it is also called as SAM interface
 
-d. Lamda expression
+d. Lambda expression
 - OOP -> Programming paradigm should adhere to Classes, Objects, Encapsulation, Inheritance, Polymorphirm, Abstraction
 - Functional programming - Here implementation of same functionality can be done in clear and concise manner.
     - Code will less, implementation will compact
+
+e. Predicates
+- Are predefined functional interfaces
+- Return boolean value
