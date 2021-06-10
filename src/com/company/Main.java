@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         Integer z = 55+6;
         System.out.println(z);
+        System.out.println("Main method");
     }
 }
