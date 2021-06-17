@@ -35,3 +35,7 @@ d. Lambda expression
 e. Predicates
 - Are predefined functional interfaces
 - Return boolean value
+
+f. Double colon operator => can be used as an alternative to Lambda expression
+- method reference - instance and static method
+- constructor reference
