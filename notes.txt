@@ -42,3 +42,6 @@ f. Double colon operator => can be used as an alternative to Lambda expression
 
 g. Streams - java.util.stream
 - Helps to operate on collection object
+- distinct function removed duplicate and returns unique list
+- skip functions skips the specified number of elements from starting
+- peek function helps in debugging to see what is happening after a particular operation on the stream
