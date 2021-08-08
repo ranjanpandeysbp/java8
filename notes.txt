@@ -45,3 +45,7 @@ g. Streams - java.util.stream
 - distinct function removed duplicate and returns unique list
 - skip functions skips the specified number of elements from starting
 - peek function helps in debugging to see what is happening after a particular operation on the stream
+
+h. Java-8: Date Time API
+- In java 7 we had Date, Calender, Timestamp, they were not efficient, it was present in java.util package
+- In Java 8 a new Date Time API was introduced which is also called as Joda Time Api in a new package called java.time
